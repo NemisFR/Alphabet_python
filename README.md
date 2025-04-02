@@ -1,10 +1,10 @@
 # Alphabet_python 🧂
 Tired of your professor asking you to display letters or words in Python? 😫
 Just use this, and boom! 💥💥💥<br>
-You can easily generate letters in your project!
+You can easily generate letters in your project! 🤩
 
-# How does it work?
-Place the file in C:\EduPython\App\Lib if you're using EduPython, or simply in the same folder as your project.
+# How does it work? 🤓
+Place the file in C:\EduPython\App\Lib if you're using EduPython, or simply in the same folder as your project. 📁
 
 Import it using:
 
@@ -13,18 +13,18 @@ from alphabet import *
 ```
 💢 This line is required for the script to work!
 
-# Getting Started
+# Getting Started 🐤
 The program first asks you to define:
 
 - Width – The width of your letters
 
 - Length – The height of your letters
 
-- Y – The vertical margin position
+- Y – The vertical margin position 
 
 - X – The horizontal margin position
 
-# Writing Letters
+# Writing Letters 💻
 To display a letter, type the letter followed by ().
 For example, to display "X":
 
@@ -34,7 +34,7 @@ X()
 To add space between words, use ``space()``.
 To move to the next line, use ``enter()``.
 
-# Example:
+# Example: 👐
 Here’s how you can write the sentence "A WORD FROM ME" using Alphabet.py:
 
 ```python
@@ -57,7 +57,7 @@ enter()
 M()
 E()
 ```
-# Planned Updates
+# Planned Updates 😴
 ✔ Improve my English 😅<br>
 ✔ Add special characters like ;,.:/ etc.<br>
 ✔ Support for numbers! 🎉<br>
