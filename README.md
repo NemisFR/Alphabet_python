@@ -31,7 +31,7 @@ For example, to display "X":
 ```python
 X()
 ```
-To add space between letters, use ``space()``.
+To add space between words, use ``space()``.
 To move to the next line, use ``enter()``.
 
 # Example:
@@ -43,15 +43,21 @@ from alphabet import *
 A()
 enter()
 W()
-space()
 O()
-space()
 R()
-space()
 D()
+space()
+space()
+space()
+F()
+R()
+O()
+M()
+enter()
+M()
+E()
 ```
 # Planned Updates
-✔ Allow typing letters directly, with space() only required between words.<br>
 ✔ Improve my English 😅<br>
 ✔ Add special characters like ;,.:/ etc.<br>
 ✔ Support for numbers! 🎉<br>
