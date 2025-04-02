@@ -35,7 +35,7 @@ To add space between words, use ``space()``.
 To move to the next line, use ``enter()``.
 
 # Example:
-Here’s how you can write the word "WORD" using Alphabet.py:
+Here’s how you can write the word "A WORD FROM ME" using Alphabet.py:
 
 ```python
 from alphabet import *
