@@ -9,7 +9,7 @@ Place the file in C:\EduPython\App\Lib if you're using EduPython, or simply in t
 Import it using:
 
 ```python
-from Alphabet import *
+from alphabet import *
 ```
 💢 This line is required for the script to work!
 
