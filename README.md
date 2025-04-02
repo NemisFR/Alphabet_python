@@ -51,10 +51,10 @@ space()
 D()
 ```
 # Planned Updates
-✔ Allow typing letters directly, with space() only required between words.
-✔ Improve my English 😅
-✔ Add special characters like ;,.:/ etc.
-✔ Support for numbers! 🎉
+✔ Allow typing letters directly, with space() only required between words.<br>
+✔ Improve my English 😅<br>
+✔ Add special characters like ;,.:/ etc.<br>
+✔ Support for numbers! 🎉<br>
 
 # Found a bug?
 Let me know! There are bound to be a few. 😆
