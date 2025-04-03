@@ -24,7 +24,7 @@ The program first asks you to define:
 
 - <strong>X</strong> – The horizontal margin position
 
-- <strong>Color</strong> - The color of your letters ([Colors see them](visit https://cs111.wellesley.edu/reference/colors to see them/))
+- <strong>Color</strong> - The color of your letters (visit https://cs111.wellesley.edu/reference/colors to see them)
 
 ## Writing Letters 💻
 To display a <strong>letter</strong>, type the <strong>letter</strong> followed by ().
