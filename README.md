@@ -61,7 +61,6 @@ E()
 ```
 ## Planned Updates 😴
 ✔ Improve my English 😅<br>
-✔ Add special characters like ;,.:/ etc.<br>
 ✔ Support for numbers! 🎉<br>
 
 ## Found a bug?
